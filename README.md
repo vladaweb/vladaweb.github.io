@@ -1,18 +1,43 @@
 # vladaweb.github.io
+<p>Все сайты сделаны одним человеком, т.е. мной) (дизайн, программная часть и т.д.). Везде сделаны основные SEO работы (метатеги, заголовки, alt и пр)</p>
 
 <p><a href="https://winwebs.ru/" target="_blank">https://winwebs.ru/</a></p>
-<p><a href="https://winwebs.ru/1djar/" target="_blank">https://winwebs.ru/1djar/</a></p>
-<p><a href="https://winwebs.ru/2avtoklav/" target="_blank">https://winwebs.ru/2avtoklav/</a></p>
-<p><a href="https://winwebs.ru/3autoexpert/" target="_blank">https://winwebs.ru/3autoexpert/</a></p>
-<p><a href="https://winwebs.ru/4peskostruy/" target="_blank">https://winwebs.ru/4peskostruy/</a></p>
-<p><a href="https://winwebs.ru/5sirius/" target="_blank">https://winwebs.ru/5sirius/</a></p>
-<p><a href="https://vasha-sauna.ru/" target="_blank">https://vasha-sauna.ru/</a></p>
-<p><a href="https://saunagrad.ru/" target="_blank">http://saunagrad.ru/</a></p>
-<p><a href="https://valerson.ru/" target="_blank">https://valerson.ru/</a></p>
-<p><a href="https://harvia-top.ru/" target="_blank">https://harvia-top.ru/</a></p>
-<p><a href="https://vezuviy-pechi.ru/" target="_blank">https://vezuviy-pechi.ru/</a></p>
+<p>Задача: из купленного шаблона сделать дизайн в фирменных цветах компании. Дизайн: логотип, иконки, баннеры, цветовые контрасты. Программная часть: так много, что уже не вспомнить все. От hover на страницах категорий до кардинального изменения мобильной выдачи. CMS Wordpress</p>
 
-Expired:
+<p><a href="https://winwebs.ru/1djar/" target="_blank">https://winwebs.ru/1djar/</a></p>
+<p>Задача: из pdf файла сверстать "живенькую" + мобильную версию сайта-франшизы. Пожелания заказчика - побольше анимации. Из программной части - создание калькурятора на javascript (10-ый экран). Без CMS и конструктора - чистый HTML, CSS</p>
+
+<p><a href="https://winwebs.ru/2avtoklav/" target="_blank">https://winwebs.ru/2avtoklav/</a></p>
+<p>Задача: сделать максимально насыщенный информацией одностраничный сайт. Тематика: автоклав, консервация. Без CMS и конструктора - чистый HTML, CSS</p>
+
+<p><a href="https://winwebs.ru/3autoexpert/" target="_blank">https://winwebs.ru/3autoexpert/</a></p>
+<p>Задача: мини-сайт, лендинг. Тематика: подбор авто, помощь и консультирование в процессе покупке. Сайт сделан на tilda. В основном - ZERO блоки, т.е. html код</p>
+
+<p><a href="https://winwebs.ru/4peskostruy/" target="_blank">https://winwebs.ru/4peskostruy/</a></p>
+<p>Задача: мини-сайт, лендинг. Тематика: услуги, пескоструйные работы. Сайт сделан на tilda. В основном - ZERO блоки, т.е. html код</p>
+
+<p><a href="https://winwebs.ru/5sirius/" target="_blank">https://winwebs.ru/5sirius/</a></p>
+<p>Задача: сделать максимально насыщенный информацией одностраничный сайт. Тематика: самогонный аппарат. Без CMS и конструктора - чистый HTML, CSS</p>
+
+<p><a href="https://vasha-sauna.ru/" target="_blank">https://vasha-sauna.ru/</a></p>
+<p>Старичок, сделанный еще на joomla 2.5. Вручную сделана мобильная версия (css). У владельца нет задачи раскручивать сайт. Больше нужен для ознакомления с ассортиментом</p>
+
+<p><a href="https://saunagrad.ru/" target="_blank">http://saunagrad.ru/</a></p>
+<p>Интернет-магазин печей и печного оборудования. CMS - Opencart. Вручную сделана мобильная версия (используя лишь css). Созданы автоматические YML-файлы для яндекс маркета с возможностью ручной корректировки, для более точной настройки.</p>
+
+<p><a href="https://harvia-top.ru/" target="_blank">https://harvia-top.ru/</a></p>
+<p>Интернет-магазин печей и печного оборудования. CMS - Joomla 2.5. Вручную сделана мобильная версия (используя лишь css). Продвигается. Созданы автоматические YML-файлы для яндекс маркета с возможностью ручной корректировки, для более точной настройки. Сделана выгрузка товаров для участия в блоке "Лучшие цены". Переделаны стандартные категории для просмотра товаров в формате прайс-листа. Сделана уйма работы, доведения "до ума". И как результат, несмотря на устаревший движок, интернет-магазин занимает неплохие позиции по НЧ и СЧ запросам. Ориентирован на яндекс. </p>
+
+<p><a href="https://vezuviy-pechi.ru/" target="_blank">https://vezuviy-pechi.ru/</a></p>
+<p>Интернет-магазин печей одного бренда. CMS - Joomla</p>
+
+<p><a href="https://valerson.ru/" target="_blank">https://valerson.ru/</a></p>
+<p>Интернет-магазин фототехники. CMS - Wordpress + Woocommerce. Был создан на простом бесплатном шаблоне. Полностью в итоге изменен, переделан и дизайн и юзабилити. Интернет-магазин занимает неплохие позиции по НЧ и СЧ запросам только на основе грамотно проведенного базового SEO. Специально не продвигается.</p>
+
+Expired: (те сайты, что.. увы.. не успела сохранить себе в портфолио)
 <p><a href="https://yes-yeast.ru/" target="_blank">https://yes-yeast.ru/</a></p>
 <p><a href="https://gonimsem.ru/" target="_blank">http://gonimsem.ru/</a></p>
+<p>серия сайтов с "Кузьмичом", актером Виктором Бычковым, реклама самогонных аппаратов. Там были примечательны именно навыки фотошопа, когда нужно было "собрать" Кузьмича буквально по частям, чтобы создать желаемый образ на сайте)..
+Эти сайты-лендинги в свое время собрали сливки, принесли прибыль владельцам, но идея себя изжила. 
+Жаль, что не пришло в голову сохранить.</p>
 
