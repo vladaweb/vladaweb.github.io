@@ -46,10 +46,14 @@
 <p><a href="https://valerson.ru/" target="_blank">https://valerson.ru/</a><br>
 Интернет-магазин фототехники. CMS - Wordpress + Woocommerce. Был создан на простом бесплатном шаблоне. Полностью в итоге изменен, переделан и дизайн и юзабилити. Интернет-магазин занимает неплохие позиции по НЧ и СЧ запросам только на основе грамотно проведенного базового SEO. Специально не продвигается.</p>
   </li>
+  <li>
+<p><a href="https://tilsites.tilda.ws" target="_blank">https://tilsites.tilda.ws</a><br>
+Интернет-магазин. Продажи шин. Tilda - zero блоки в основном</p>
+  </li>
 </ol>
 
-<p>В разработке:</p>
-<p><a href="https://tilsites.tilda.ws/" target="_blank">https://tilsites.tilda.ws</a>
+<p>Сайты как пример натяжки верстки на wordpress:</p>
+<p><a href="https://winwebs.ru/9/" target="_blank">https://winwebs.ru/6site/</a>
 </p>
 <p><a href="https://winwebs.ru/9/" target="_blank">https://winwebs.ru/9/</a>
 </p>
